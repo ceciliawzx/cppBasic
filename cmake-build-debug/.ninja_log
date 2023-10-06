@@ -1,0 +1,8 @@
+# ninja log v5
+3	347	1696627364041900271	CMakeFiles/cppBasic.dir/B.cpp.o	28468a429d7aaa55
+3	350	1696627364044493490	CMakeFiles/cppBasic.dir/A.cpp.o	9a4cb15ba8ef1c4
+0	72	1696627796245358344	build.ninja	e53d4d0ff2741cd
+2	335	1696627364028304880	CMakeFiles/cppBasic.dir/Basic.cpp.o	9af5f083caac1bb4
+323	363	1696627428532216974	cppBasic	6dfd4843182e129a
+7	366	1696504408234619591	CMakeFiles/cppBasic.dir/main.cpp.o	f731119da8afca16
+3	323	1696627428489957963	CMakeFiles/cppBasic.dir/linked_list.cpp.o	d1eeeeca26b3ef2c
